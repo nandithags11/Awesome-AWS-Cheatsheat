@@ -15,8 +15,8 @@ Amazon s3 serves as a data lake, accommodating diverse file formats such as CSV,
 
 + **Bucket versioning** helps to keep different version of object in the bucket with
 
-		Out overwriting or deleting the original. When the versioning is enabled, every   
-		PUT, POST, or DELETE adds a new version or a delete marker, preserving  		prior version.
+Out overwriting or deleting the original. When the versioning is enabled, every   
+PUT, POST, or DELETE adds a new version or a delete marker, preserving prior version.
 
 + **Bucket Tag** used to Identifying object by attaching Key value pairs as	metadata and its common use cases are cost allocation , automation and access control.
 
